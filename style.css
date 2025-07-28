@@ -270,3 +270,44 @@ header {
     border-radius: 5px;
     color: white;
 }
+
+
+
+
+/*--------------------ASIDE CODER7 ----------------------*/
+.aside_coder7{
+    background-color: #f1f1f1;
+    width: auto;
+    text-align: center;
+    margin-left: 80%;
+    height: 80vh;
+    box-shadow: -5px 5px 10px rgb(185, 185, 185);
+    
+}
+
+.aside_container{
+
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.aside_container a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background-color: blue;
+    border-radius: 5px;
+    width: 200px;
+
+}
+
+.aside_coder7__title{
+    padding: 10px;
+    box-shadow: 0px 5px 10px black;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
